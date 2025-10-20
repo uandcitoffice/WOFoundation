@@ -8,9 +8,6 @@ function App() {
     "/Capture.jpg",
     "/whoba-hero3.webp",
     "/whob-hero2.webp",
-    // "https://images.pexels.com/photos/3184641/pexels-photo-3184641.jpeg?auto=compress&cs=tinysrgb&w=1600",
-    // "https://images.pexels.com/photos/1181396/pexels-photo-1181396.jpeg?auto=compress&cs=tinysrgb&w=1600",
-    // "https://images.pexels.com/photos/3059748/pexels-photo-3059748.jpeg?auto=compress&cs=tinysrgb&w=1600",
   ];
 
   const [currentImage, setCurrentImage] = useState(0);
